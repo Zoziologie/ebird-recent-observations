@@ -41,7 +41,7 @@ Discover and explore recent bird observations in your region with intelligent ra
 1. **Clone the repository**
 
    ```bash
-   git clone git@github.com:Zoziologie/eBirdRecentObservations.git
+   git clone git@github.com:Zoziologie/ebird-recent-observations.git
    cd eBirdRecentObservation
    ```
 
@@ -243,7 +243,7 @@ The application is configured via `src/config/api.js`:
 
 For GitHub Pages deployment, the app is configured with:
 
-- Base path: `/eBirdRecentObservations/`
+- Base path: `/ebird-recent-observations/`
 - Static asset handling for production builds
 
 ## Contributing

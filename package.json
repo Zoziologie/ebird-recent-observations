@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Discover recent bird observations in your region with intelligent rarity scoring based on eBird frequency data",
   "main": "src/main.js",
-  "homepage": "https://zoziologie.raphaelnussbaumer.com/eBirdRecentObservations",
+  "homepage": "https://zoziologie.raphaelnussbaumer.com/ebird-recent-observations",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Zoziologie/eBirdRecentObservations.git"
+    "url": "https://github.com/Zoziologie/ebird-recent-observations.git"
   },
   "bugs": {
-    "url": "https://github.com/Zoziologie/eBirdRecentObservations/issues"
+    "url": "https://github.com/Zoziologie/ebird-recent-observations/issues"
   },
   "author": {
     "name": "Raphaël Nussbaumer",

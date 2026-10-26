@@ -4,7 +4,7 @@ import vue from "@vitejs/plugin-vue";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [vue()],
-  base: "/eBirdRecentObservations/",
+  base: "/ebird-recent-observations/",
   build: {
     outDir: "dist",
     assetsDir: "assets",

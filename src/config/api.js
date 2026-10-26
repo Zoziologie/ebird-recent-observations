@@ -27,11 +27,11 @@ export const EBIRD_CONFIG = {
  */
 export const APP_CONFIG = {
   // Base path for static data files
-  DATA_BASE_PATH: "/eBirdRecentObservations/barchartData",
+  DATA_BASE_PATH: "/ebird-recent-observations/barchartData",
 
   // External URLs
   EBIRD_BASE_URL: "https://ebird.org",
-  GITHUB_REPO_URL: "https://github.com/Zoziologie/eBirdRecentObservations",
+  GITHUB_REPO_URL: "https://github.com/Zoziologie/ebird-recent-observations",
 };
 
 /**
